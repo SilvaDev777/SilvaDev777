@@ -16,7 +16,7 @@ Olá, eu sou Silva! 👨‍💻✨ Tenho 18 anos e sou apaixonado por explorar e
 
 ## Contato
 
-- [Email](https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw)
+- **E-mail:** fernandomemdes4@gmail.com
 - **Discord:** silva.pwn
 
 ## Junte-se à Jornada!
