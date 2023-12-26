@@ -14,6 +14,11 @@ Olá, eu sou Silva! 👨‍💻✨ Tenho 18 anos e sou apaixonado por explorar e
 - **Pawn:** Navegando pelos códigos dos servidores SAMP, transformando ideias em realidade.
 - **JavaScript:** Explorando o poder da programação do lado do cliente para tornar a web mais dinâmica e eficiente.
 
+## Contato
+
+- [Email](https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw)
+- **Discord:** silva.pwn
+
 ## Junte-se à Jornada!
 
 Estou constantemente aprendendo, criando e compartilhando conhecimento. Junte-se a mim nesta jornada de código, onde a imaginação se torna realidade e as linhas de código contam histórias fascinantes.
