@@ -5,7 +5,7 @@ Olá, eu sou Silva! 👨‍💻✨ Tenho 18 anos e sou apaixonado por explorar e
 ## Sobre Mim
 
 - 👤 **Nome:** Silva
-- 🎂 **Idade:** 18 anos
+- 🎂 **Idade:** 19 anos
 
 ## Linguagens de Programação 🚀
 
